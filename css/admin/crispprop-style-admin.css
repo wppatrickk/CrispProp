@@ -1,0 +1,52 @@
+.crispprop-featured {
+	padding: 5px;
+}
+
+#crispprop-settings {
+	padding: 20px 5px;
+}
+
+#crispprop-settings fieldset {
+	overflow: hidden;
+	margin-bottom: 25px;
+}
+
+.crispprop-label {
+	width: 25%;
+	float: left;
+}
+
+.crispprop-label label {
+	font-size: 14px;
+	font-weight: 500;
+	line-height: 1.8;
+	font-weight: 600;
+}
+
+.crispprop-option {
+	width: 73%;
+	float: right;
+}
+
+.crispprop-option input[type="text"], .crispprop-option input[type="number"] {
+	width: 80%;
+	padding: 5px;
+}
+
+.crispprop-checkbox {
+	display: inline-block;
+	margin: 0 20px 20px 0;
+}
+
+.rent-period .crispprop-checkbox {
+	margin-bottom: 0;
+}
+
+.crispprop-radio {
+	display: inline-block;
+	margin: 0 20px 0 0;
+}
+
+.sale-price, .weekly-rent, .monthly-rent {
+	display: none;
+}
